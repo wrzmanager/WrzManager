@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: WrzManagerBackend
 Bundle-SymbolicName: org.wrzmanager.backend
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: de.jporn.java.wrzmanager.backend.Activator
+Bundle-Activator: org.wrzmanager.backend.Activator
 Require-Bundle: org.eclipse.core.runtime,
  org.junit,
  com.sun.jersey.bundle;bundle-version="1.9.1",
